@@ -1,0 +1,5 @@
+.env-old/
+*.png
+*.svg
+*.gif
+index.rst

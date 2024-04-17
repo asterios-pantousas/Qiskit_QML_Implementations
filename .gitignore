@@ -1,5 +1,10 @@
-.env-old/
+.gitignore
+__pycache__/
+.venv/
 *.png
 *.svg
 *.gif
 index.rst
+docs/
+Qiskit-textbook-main-notebooks-quantum-machine-learning/
+QuantumNeuralNetworks.ipynb

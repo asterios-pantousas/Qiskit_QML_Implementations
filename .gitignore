@@ -1,9 +1,16 @@
 .gitignore
+.env
+.DS_Store
+plots/
+results/
 __pycache__/
 .venv/
 *.png
 *.svg
 *.gif
+*.py
+*.ipynb
+!generic_comparator.ipynb
 index.rst
 docs/
 Qiskit-textbook-main-notebooks-quantum-machine-learning/

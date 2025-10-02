@@ -235,6 +235,7 @@ Qiskit_QML_Implementations/
 - **Target**: Binary classification (stroke occurrence)
 
 ### Diabetes Prediction
+- **Source**: [Kaggle Diabetes Prediction](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
 - **Features**: Various health indicators
 - **Target**: Binary classification (diabetes presence)
 

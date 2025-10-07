@@ -280,7 +280,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Asterios Pantousas** - [GitHub](https://github.com/asterios-pantousas)
+**Asterios Pantousas** - [GitHub](https://github.com/asterios-pantousas) - [LinkedIn](https://www.linkedin.com/in/apantousas/)
 
 Project Link: [https://github.com/asterios-pantousas/Qiskit_QML_Implementations](https://github.com/asterios-pantousas/Qiskit_QML_Implementations)
 
